@@ -1,4 +1,4 @@
-###Exploration on ML fundamentals: Gradient Descent, Kernels, SVMs, and Calibration
+### Exploration on ML fundamentals: Gradient Descent, Kernels, SVMs, and Calibration
 
 This repository contains the implementation and write-up for a machine learning lab covering optimization, support vector machines, kernel methods, and probability calibration. The core work is implemented in the notebook `Code.ipynb`, with the written discussion and interpretations collected in `Report.md`.
 
